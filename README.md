@@ -1,2 +1,3 @@
 # git_test
-Test
+This is Ken's first git project (Not really)
+
